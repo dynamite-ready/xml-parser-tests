@@ -1,0 +1,23 @@
+{
+  "name": "XML Parse tests",
+  "version": "0.1.0",
+  "description": "Simple XML parser tests.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "config": {
+    "port": ""
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Leonard Charles",
+  "email": "l_r_charles@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "xml2json": "^0.8.0",
+    "lodash": "*"
+  }
+}
